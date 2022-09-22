@@ -1,1 +1,2 @@
 # GameProject
+Chess game repo
